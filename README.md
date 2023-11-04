@@ -1,11 +1,3 @@
-
-
-<p align="center">
-  <img src="https://github-bio-api.up.railway.app/banners/typing?title=Hola%2C+soy+Paul&transparent=true" />
-</p>
-
-
-
 # About me 🙂
 
 Hi, my name is Paul and I'm a student based in Spain. My passion for web app development led me to focus on learning technologies such as TypeScript, MongoDB, NodeJS, and NestJS, as well as mastering CSS, HTML, and JavaScript. I also have a love for pizza! You can reach me at my email address listed in my contact information.
@@ -20,5 +12,4 @@ Hi, my name is Paul and I'm a student based in Spain. My passion for web app dev
 
 # Find me at 📫
 
-- Email: paulhendea@email.com
-
+- Email: paulhendea22@gmail.com
